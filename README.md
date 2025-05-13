@@ -5,7 +5,7 @@ A course geared towards master's students on getting started in economic researc
 **Overview:** Many people are inspired to do economic research because they are interested in some broad topic. Topics are a great place to start your thinking, but a research paper will ultimately require a much
 narrower focus. The focus of this week is on the process of going from a topic of interest to a question.
 
-**Reading:**
+**Reading:** [Varian](/lit/VarianHowTo.pdf)
 
 # Week 2: The Tools &#x1F527;
 
