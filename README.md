@@ -8,7 +8,9 @@ narrower focus. The focus of this week is:
 2. Thinking through an idea at the early stages
 3. Laying the foundation and building a vision for the paper
 
-**Reading:** [Varian](/lit/VarianHowTo.pdf), [Bellemare Chapter 2](../BellemareC02.pdf)
+**Required Reading:** [Varian](/lit/VarianHowTo.pdf), [Angrist and Pischke Chapter 1](../lit/AngrisPischkeC01.pdf)
+
+**Additional Reading:** [Bellemare Chapter 2](../BellemareC02.pdf)
 
 # Week 2: The Tools &#x1F527;
 
