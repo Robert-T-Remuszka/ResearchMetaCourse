@@ -1,12 +1,8 @@
 # Welcome! &#x1f44b;
 A course geared towards master's students on getting started in economic research.
 
-# Week 1: Topic $\supset$ Questions $\supset$ Paper
-**Overview:** Many people are inspired to do economic research because they are interested in some broad topic. Topics are a great place to start your thinking, but a research paper will ultimately require a much
-narrower focus. The focus of this week is:
-1. Generating an idea
-2. Thinking through an idea at the early stages
-3. Laying the foundation and building a vision for the paper
+# Week 1: Finding and Communicating Ideas + Envisioning Papers
+**Overview:** Many people are inspired to do economic research because they are interested in some broad topic. Topics are a great place to start your thinking, but a research paper will ultimately require a much more narrow focus. This week is about coming up with ideas, laying the groundwork for those ideas and ultimately building a clear vision for a paper.
 
 **Required Reading:** [Varian](/lit/VarianHowTo.pdf), [Angrist and Pischke Chapter 1](../lit/AngrisPischkeC01.pdf)
 
