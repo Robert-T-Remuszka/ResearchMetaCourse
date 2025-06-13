@@ -1,0 +1,91 @@
+\documentclass[11pt, aspectratio=169]{beamer}                  % The 16-9 aspect ratio is important for professional looking presentations
+\setbeamersize{text margin left=0.3in,text margin right=0.3in} % Maximizing space on slides without being excessive
+%\usepackage[utf8]{inputenc}
+\usepackage{natbib, bibentry}    % natbib manages .bib file, bibentry can hide the bibliography (slides only)
+%\usepackage{bbm}                % Bold face vectors, see vect command created below
+%\usepackage{booktabs}           % Nice tables
+%\usepackage{amsmath}            % Theorems etc.
+%\usepackage{amssymb}            % Math symbols
+%\usepackage{graphicx}           % Handling figures
+%\usepackage{enumitem}           % For changing the bullet points
+\usepackage{hyperref}           % Linking to websites and literature
+\usepackage{framed}             % Defining Shaded Environment for nice looking theorems etc 
+%\usecolortheme{dolphin}         % This is my favorite color theme, but feel free to mess around
+\usepackage[dvipsnames]{xcolor} % Defining colors
+
+\definecolor{mycolor}{RGB}{0, 100, 120}
+%\definecolor{mycolor2}{RGB}{0, 147, 245} % Blue
+%\definecolor{mycolor3}{RGB}{252, 186, 3} % Yellow
+%\definecolor{mycolor4}{RGB}{242, 2, 27}  % Red
+%\definecolor{mycolor5}{RGB}{247, 129, 4} % Orange
+\setbeamercolor{structure}{fg=mycolor}
+\setbeamercolor{section in head/foot}{bg=mycolor}
+
+\newcommand{\marker}{$\color{mycolor}{\blacktriangleright}$}
+\setlist[itemize,1]{label=\marker}
+\setlist[itemize,2]{label=$\color{mycolor}{\vartriangleright}$}
+
+\setbeamertemplate{navigation symbols}{}                               % Rid of default navigation symbols
+
+\setbeamertemplate{footline}{% MANUALLY CREATES THE BUTTONS AT THE BOTTOM OF THE SLIDES
+    \quad\hyperlink{frame:intro}{\beamergotobutton{Introduction}}%{}%
+    %\quad\hyperlink{frame:First Steps}{\beamergotobutton{First Steps}}%
+    %\quad\hyperlink{frame:empirics}{\beamergotobutton{Empirics}}%
+    %\quad\hyperlink{frame:q-model}{\beamergotobutton{Quantitative Model}}%
+    %\quad\hyperlink{frame:appendix}{\beamergotobutton{Appendix}}%
+    \hfill%
+    \leavevmode%
+    \hbox{%
+    \insertframenumber{} / \inserttotalframenumber\hspace*{2ex}}%
+    \vspace*{0.2cm}%
+}
+
+%\setbeameroption{hide notes} % Only slides
+%\setbeameroption{show only notes} % Only notes
+%\setbeameroption{show notes on second screen=right} % View Slides and Notes
+
+%\newcommand{\E}{\mathbb{E}}
+%\newcommand{\vect}[1]{\boldsymbol{#1}}
+%\newcommand{\ind}{\mathbb{I}}
+%\newtheorem*{prop}{Proposition}
+%\newenvironment{propc}[1]
+%{
+%\begin{shaded}\begin{prop}[#1]
+%}
+%{
+%\end{prop}\end{shaded}
+%}
+%\colorlet{shadecolor}{mycolor!15}
+\title{Research Workshop: Week 2}
+\author{Robert T. Remuszka}
+\date{June 2025}
+
+\begin{document}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Introduction}
+    \label{frame:intro}
+    \textcolor{mycolor}{\textbf{Motivation}}:\\
+    \textcolor{mycolor}{(i)} What brought you to ask this question?\\
+    \textcolor{mycolor}{(ii)} Why is this important?\\
+    \textcolor{mycolor}{(iii)} Is there a single parameter that you can focus on?\\
+    \vspace{1em}
+    \textcolor{mycolor}{\textbf{Question:}}\\
+    \textcolor{mycolor}{(i)} What is the elasticity of imports to tariffs?\\
+    \textcolor{mycolor}{(ii)} Can we use tariffs to reduce the budget deficit?
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Logistics and Comments}
+    % Overview of the course
+    % First week will feel like too much emphasis on theoretical considerations...it is not, beleive me!
+    % Second week we will think about empirics and look at how to put together a presentation in latex
+    % Week 3+ we will present. The goal is that by the end you will have a vision for your papers and will have a list of to do's to get them done
+    % Virtual office hours
+    \textcolor{mycolor}{\textbf{Meeting Times:}} 11 AM in 6116 SS\\
+    \vspace{1em}
+    \textcolor{mycolor}{\textbf{Office Hours:}} By appointment
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{apalike}     % The default in economics
+\nobibliography{biblio.bib}
+\end{document}
