@@ -37,7 +37,9 @@ After you submit, start thinking about the following questions:
 - What is the ideal experiment that you would use to test your theory?
 
 # Week 4: How to Write a Proposal + Example &#x1f4c5;
-**Overview:** Proposals are important for getting your research funded. At this point you have presented once. You should be thinking of a simple model or framework that can help people understand the economics of what you are talking. That is, you are building the ability to convince a selection committee that you have a plan of attack on your question. Of course, this is where writing becomes *very* important. We will review how to write an effective proposal.
+**Overview:** Proposals are important for getting your research funded. At this point you have presented once. You should be thinking of a simple model or framework that can help people understand the economics of what your question. This model should also suggest how you might approach the data. At this stage, writing a proposal will help you even if you do not ultimately win because it will help you plan the way you will address your question. We will see an example this week of how you can organize your thoughts and write a competitive proposal.
+
+**Required Reading:** [CBO Call for Research](lit/CBO_Call.pdf), [An Example from my Own Work](lit/Example_Proposal.pdf)
 
 **Useful Reading:** [Bellemare Chapter 5](lit/BellemareC05.pdf)
 
