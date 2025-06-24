@@ -36,11 +36,13 @@ After you submit, start thinking about the following questions:
 - What does your model tell us about how the data should be interpreted?
 - What is the ideal experiment that you would use to test your theory?
 
-# Week 4: Student Presentations II &#x1f4c5;
-**Overview:** Now we will present the model you wrote for assignment II. You should also include an empirical section in your presentation. The empirics should be guided by the model you wrote.
+# Week 4: How to Write a Proposal + Example &#x1f4c5;
+**Overview:** Proposals are important for getting your research funded. At this point you have presented once. You should be thinking of a simple model or framework that can help people understand the economics of what you are talking. That is, you are buidling the ability to convince a selection committee that you have a plan of attack on your question. Of course, this is where writing becomes *very* important. We will review how to write an effective proposal.
 
-# Week 5: How to Write a Proposal &#x1f4c5;
-**Overview:** Proposals are important for getting your research funded. At this point you have presented twice already and should have a clear picture on your question, the economics (theory) surrounding it and the empirical framework you would use to test it. That is, you are in a position to convince a selection committee that you have a plan of attack. Of course, this is where writing becomes *very* important. We will review how to write an effective proposal.
+**Useful Reading:** [Bellemare Chapter 5](lit/BellemareC05.pdf)
+
+# Week 5: Student Presentations II &#x1f4c5;
+**Overview:** Now we will present the model you wrote for assignment II. You should also include an empirical section in your presentation. The empirics should be guided by the model you wrote.
 
 # Week 6: How to Write a Paper &#x1f4c5;
 
