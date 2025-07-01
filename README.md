@@ -43,8 +43,15 @@ After you submit, start thinking about the following questions:
 
 **Useful Reading:** [Bellemare Chapter 5](lit/BellemareC05.pdf)
 
-# Week 5: Student Presentations II &#x1f4c5;
-**Overview:** Now we will present the model you wrote for assignment II. You should also include an empirical section in your presentation. The empirics should be guided by the model you wrote.
+# Week 5: Statistical Software &#x1f4c5;
+**Overview:** Economists program a lot. We can broadly categorize the kinds of programming economists do into "statistical" and "numerical" programming. Of course, these two kinds of programming overlap. This week we will focus on statistical programming using Stata. I will give examples
+of how to 
+- Read data into Stata
+- Merge datasets
+- Create graphs
+- Run regressions
+- Create tables of summary statistics
+- Create regression tables
 
 # Week 6: How to Write a Paper &#x1f4c5;
 
