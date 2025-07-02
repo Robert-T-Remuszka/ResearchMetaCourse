@@ -54,7 +54,10 @@ of how to
 - Run regressions
 - Create regression tables
 
-**Remark** The file [exec.do](/code/exec.do) runs all the code I will use in this week's lecture.
+**Remark** The file [exec.do](/code/exec.do) runs all the code I will use in this week's lecture. In order to run all the code you will need
+- [A FRED API key](https://fred.stlouisfed.org/docs/api/api_key.html)
+- In Stata, you should SSC install outreg
+- The file [exec.do](/code/exec.do) executes the code for this week in order. Be sure to have your fred api key set first!
 
 # Week 6: How to Write a Paper &#x1f4c5;
 
