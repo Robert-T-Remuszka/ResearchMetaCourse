@@ -1,0 +1,19 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{$\pi$}&\multicolumn{1}{c}{$\pi$}\\
+\midrule
+Unemployment Rate   &   \textcolor{mycolor2}{    0.025}         &   \textcolor{mycolor5}{   -0.092}\sym{**} \\
+                    &     (0.061)         &     (0.034)         \\
+\addlinespace
+Expected $\pi$      &                     &       1.571\sym{***}\\
+                    &                     &     (0.047)         \\
+\midrule
+N                   &         557         &         557         \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Robust standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+}
