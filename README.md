@@ -59,8 +59,7 @@ of how to
 - In Stata, you should SSC install outreg
 - The file [exec.do](/code/exec.do) executes the code for this week in order. Be sure to have your fred api key set first!
 
-# Week 6: How to Write a Paper &#x1f4c5;
+# Week 6: Python Programming &#x1f4c5;
+**Overview:** It may very well be the case in Macroeconomics that you will need to code up a structural model. Stata is not the right tool for this job and as such I will introduce you to Python.
 
-# Week 7: Student Presentations III &#x1f4c5;
-
-# Week 8: Concluding Remarks &#x1f4c5;
+# Week 7: How to Write a Paper &#x1f4c5;
